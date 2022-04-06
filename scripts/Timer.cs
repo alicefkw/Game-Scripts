@@ -42,7 +42,6 @@ public class Timer : MonoBehaviour
         {
             if (dandelion.activeSelf == true)       dandelionBattle.RandomAtk();
             else if (luke.activeSelf == true)       lukeBattle.RandomAtk();
-            h
         }
     }
     void StartCountTime()
